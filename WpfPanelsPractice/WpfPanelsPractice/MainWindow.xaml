@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:WpfPanelsPractice"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
-    </Grid>
+    <WrapPanel>
+        <Button Width="256" Height="32" Content="Grid1" Click="Grid1Button_Click"/>
+    </WrapPanel>
 </Window>

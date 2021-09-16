@@ -11,5 +11,11 @@
         {
             InitializeComponent();
         }
+
+        private void Grid1Button_Click(object sender, RoutedEventArgs e)
+        {
+            var window = new Grid1Window();
+            window.Show();
+        }
     }
 }
