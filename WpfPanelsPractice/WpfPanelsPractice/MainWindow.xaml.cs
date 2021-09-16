@@ -29,5 +29,11 @@
             var window = new Grid3Window();
             window.Show();
         }
+
+        private void Grid4Button_Click(object sender, RoutedEventArgs e)
+        {
+            var window = new Grid4Window();
+            window.Show();
+        }
     }
 }
