@@ -8,5 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <WrapPanel>
         <Button Width="256" Height="32" Content="Grid1" Click="Grid1Button_Click"/>
+        <Button Width="256" Height="32" Content="Grid2" Click="Grid2Button_Click"/>
+        <Button Width="256" Height="32" Content="Grid3" Click="Grid3Button_Click"/>
     </WrapPanel>
 </Window>

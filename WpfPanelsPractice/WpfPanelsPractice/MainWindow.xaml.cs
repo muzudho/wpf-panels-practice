@@ -17,5 +17,17 @@
             var window = new Grid1Window();
             window.Show();
         }
+
+        private void Grid2Button_Click(object sender, RoutedEventArgs e)
+        {
+            var window = new Grid2Window();
+            window.Show();
+        }
+
+        private void Grid3Button_Click(object sender, RoutedEventArgs e)
+        {
+            var window = new Grid3Window();
+            window.Show();
+        }
     }
 }
