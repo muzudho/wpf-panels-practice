@@ -3,11 +3,11 @@
     using System.Windows;
 
     /// <summary>
-    /// GridWindow1.xaml の相互作用ロジック
+    /// Grid4Window.xaml の相互作用ロジック
     /// </summary>
-    public partial class Grid1Window : Window
+    public partial class Grid4WindowView : Window
     {
-        public Grid1Window()
+        public Grid4WindowView()
         {
             InitializeComponent();
         }

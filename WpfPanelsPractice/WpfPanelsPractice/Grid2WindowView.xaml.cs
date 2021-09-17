@@ -5,9 +5,9 @@
     /// <summary>
     /// Grid2Window.xaml の相互作用ロジック
     /// </summary>
-    public partial class Grid2Window : Window
+    public partial class Grid2WindowView : Window
     {
-        public Grid2Window()
+        public Grid2WindowView()
         {
             InitializeComponent();
         }
